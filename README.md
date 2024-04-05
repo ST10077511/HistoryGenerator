@@ -16,7 +16,8 @@ The History Generator app pushes the frontiers of historical exploration, provid
 
 This application's functionality is based on presenting the ages that was when an individual died. In addition to this core feature, the app offers users morsels of information about the dead person's life and accomplishments. Users can easily travel through the historical records of people's deaths using its straightforward interface, learning about the many experiences and achievements of people from all origins and walks of life. By merging critical statistics such as persons' ages around the time of death with small peeks into their lives as they unfolded, this app provides users with a comprehensive perspective of how people live and what has been left behind by the people who have passed away. Whether you want to learn about the significance of historical personalities or remember loved ones, this smartphone application acts as a digital archive of human experiences, spanning the gap between the past and the present. Its user-friendly design makes it accessible to people of any socioeconomic status, creating a sense of belonging and compassion as they interact with the intricate fabric of human existence. This app encourages users to think on the fleeting essence of existence and the lasting legacy of everybody's journey by simply revealing decades at death while sharing bits of life tales. Furthermore, the app is far more than a collection of historical information; it develops a sense that connection as well as compassion among its users. When people hear the experiences of those who have died, they become conscious of the common humanity that connects us all together. Whether reading about historical leaders' accomplishments or meditating on the lives of ordinary people, users are encouraged to consider the common themes of love, sorrow, triumph, and hardship that characterize the human experience. 
 
-Screenshot 1 
+![Screenshot1 nothing entered](https://github.com/ST10077511/HistoryGenerator/assets/161335085/586daf02-78b8-4982-be8a-9b541f309754)
+
 
  
 
@@ -24,9 +25,8 @@ When I launched the history generator software, it asked me to enter my age, pre
 
  
 
- 
+ ![Screenshot 2 age less then 21](https://github.com/ST10077511/HistoryGenerator/assets/161335085/673d58d4-e4ba-4b3d-911e-ef5ab12a0861)
 
-Screenshot 2 
 
  
 
@@ -34,7 +34,8 @@ When I tried to enter an age that was below the lowest limit established by the 
 
  
 
-Screenshot 3 
+![Screenshot 3 coreect age](https://github.com/ST10077511/HistoryGenerator/assets/161335085/d5a7d607-7eb3-4322-8507-3676d230ae1e)
+ 
 
  
 
